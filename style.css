@@ -1,0 +1,17 @@
+/* style.css */
+body {
+    font-family: sans-serif;
+    margin: 2rem;
+    background: #f0f4f8;
+  }
+  
+  h1 {
+    color: #1e3a8a;
+    font-size: 2.5rem;
+  }
+  
+  p {
+    color: #334155;
+    line-height: 1.5;
+  }
+  
