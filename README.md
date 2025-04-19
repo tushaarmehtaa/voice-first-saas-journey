@@ -223,12 +223,3 @@ A single through‑line project—**Voice‑First SaaS Starter**—evolves each 
 You shared a ladder: **Fundamentals → Build a SaaS → 10× with AI**.  
 This roadmap mirrors that progression **in one evolving codebase**, so every new concept lands in a live product—never isolated tutorials.  
 Weekly writing & shipping turns your marketing strengths into a flywheel: each article doubles as both proof of skill and inbound for your SaaS.
-
----
-
-## Next Steps (Today, ≤ 2 hrs)  
-1. Create a private GitHub repo: `voice-first-saas-journey`  
-2. Add a `/plans/` folder and save this roadmap as `README.md`  
-3. Push your first commit: a design doc for the Month 1 static site  
-
-> Ping me when that’s done and we’ll scope Week 1 deliverables. You’ve got this! 💪  
